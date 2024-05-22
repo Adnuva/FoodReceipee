@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213059424326",
+    "project_id": "foodreceipe-fcd88",
+    "storage_bucket": "foodreceipe-fcd88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213059424326:android:baa35a208e1d62fd9afa47",
+        "android_client_info": {
+          "package_name": "com.example.foodreceipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB65arQ5WLzpuGMyTaj9rd9seE_8K_k_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

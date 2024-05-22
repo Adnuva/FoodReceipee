@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    tools:context=".HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="30dp"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="1dp"
+            android:text="Hello"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+
+        <androidx.cardview.widget.CardView
+
+            android:id="@+id/homepagee"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="150dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:layout_marginTop="20dp"
+            android:onClick="salad">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/aaaa"
+                    android:layout_marginTop="5dp"
+                    />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/resto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="5dp"
+            android:text="Nearest Restaurant"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <HorizontalScrollView
+            android:id="@+id/scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:orientation="vertical"
+                    android:backgroundTint="@color/pucat"
+                    app:cardCornerRadius="20dp"
+                    android:layout_marginEnd="15dp">
+
+                    <ImageView
+                        android:id="@+id/image5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/cookies" />
+
+                    <TextView
+                        android:id="@+id/text5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="75dp"
+                        android:minHeight="48dp"
+                        android:text="Nata Hati"
+                        android:textSize="20sp"
+                        android:layout_gravity="center"
+                        android:textColor="#000"
+                        android:onClick="openRestaurantOnMap"
+                        tools:ignore="OnClick" />
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:orientation="vertical"
+                    android:backgroundTint="@color/pucat"
+                    app:cardCornerRadius="20dp"
+                    android:layout_marginEnd="15dp">
+
+                    <ImageView
+                        android:id="@+id/imageee"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/cookies" />
+
+                    <TextView
+                        android:id="@+id/texttt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="75dp"
+                        android:minHeight="48dp"
+                        android:text="Nata Hati"
+                        android:textSize="20sp"
+                        android:layout_gravity="center"
+                        android:textColor="#000"
+                        android:onClick="openRestaurantOnMap"
+                        tools:ignore="OnClick" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:orientation="vertical"
+                    android:backgroundTint="@color/pucat"
+                    app:cardCornerRadius="20dp"
+                    android:layout_marginEnd="15dp">
+
+                    <ImageView
+                        android:id="@+id/imaga"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/cookies" />
+
+                    <TextView
+                        android:id="@+id/texta"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="75dp"
+                        android:minHeight="48dp"
+                        android:text="Nata Hati"
+                        android:textSize="20sp"
+                        android:layout_gravity="center"
+                        android:textColor="#000"
+                        android:onClick="openRestaurantOnMap"
+                        tools:ignore="OnClick" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:orientation="vertical"
+                    android:backgroundTint="@color/pucat"
+                    app:cardCornerRadius="20dp"
+                    android:layout_marginEnd="15dp">
+
+                    <ImageView
+                        android:id="@+id/imagea"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/cookies" />
+
+                    <TextView
+                        android:id="@+id/texte"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="75dp"
+                        android:minHeight="48dp"
+                        android:text="Nata Hati"
+                        android:textSize="20sp"
+                        android:layout_gravity="center"
+                        android:textColor="#000"
+                        android:onClick="openRestaurantOnMap"
+                        tools:ignore="OnClick" />
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recommend For You !!"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="40dp"
+            />
+
+        <androidx.cardview.widget.CardView
+
+            android:id="@+id/salad"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:layout_marginTop="20dp"
+            android:onClick="salad">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:id="@+id/salada"
+                android:onClick="salada"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/salad"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Salad"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cookies"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:onClick="cookies">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cookies"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cookies"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/soup"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:onClick="soup">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/soup"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Soup"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cake"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:onClick="cake">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cake"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cake"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/meat"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:onClick="meat">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/meat"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Meat"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/noodle"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/orange"
+            app:cardCornerRadius="38dp"
+            android:paddingBottom="50dp"
+            android:onClick="noodle">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/noodle"
+                    android:layout_marginLeft="30dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Noodle"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="40dp"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/biru"
+            app:cardCornerRadius="38dp"
+            android:paddingBottom="50dp"
+            android:visibility="invisible"
+            android:onClick="noodle">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+<!--                <ImageView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:src="@drawable/noodle"-->
+<!--                    android:layout_marginLeft="30dp"-->
+<!--                    />-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Noodle"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:layout_marginLeft="40dp"-->
+<!--                    android:textSize="18sp"-->
+<!--                    android:textColor="@android:color/black" />-->
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>

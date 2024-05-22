@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_place_24" />
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recipe Title"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/textViewSteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Steps:"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:padding="8dp" />
+
+    <!-- TextView untuk menampilkan langkah-langkah -->
+    <TextView
+        android:id="@+id/textViewStep1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Step 1: Do this"
+        android:textSize="14sp"
+        android:padding="4dp" />
+
+    <TextView
+        android:id="@+id/textViewStep2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Step 2: Do that"
+        android:textSize="14sp"
+        android:padding="4dp" />
+
+    <!-- Tambahkan TextView lainnya untuk setiap langkah-langkah yang Anda inginkan -->
+
+</LinearLayout>
