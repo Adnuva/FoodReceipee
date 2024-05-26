@@ -16,17 +16,4 @@ public class Salad extends AppCompatActivity {
         setContentView(R.layout.activity_salad);
     }
 
-    // Metode untuk menangani klik pada CardView Salad
-    public void onSaladClick(View view) {
-        // Buat Intent untuk memulai DetailResepActivity dan kirim data resep yang diperlukan
-        Intent intent = new Intent(this, DetailResep.class);
-        intent.putExtra("resep", "salad"); // Kirim judul resep
-        startActivity(intent);
-    }
-
-    private class View {
-    }
-
-    // Metode untuk menangani klik pada CardView resep lainnya
-    // Anda dapat menambahkan metode serupa untuk resep lainnya
 }

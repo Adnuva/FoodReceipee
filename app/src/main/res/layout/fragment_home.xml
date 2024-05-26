@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="1dp"
-            android:text="Hello"
+            android:text="Special Today"
             android:textSize="25sp"
             android:textStyle="bold"
             android:textColor="@color/black" />
@@ -29,26 +29,26 @@
 
             android:id="@+id/homepagee"
             android:layout_width="300dp"
-            android:layout_gravity="center"
             android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
             android:layout_marginBottom="16dp"
             android:backgroundTint="@color/orange"
+            android:onClick="salad"
             app:cardCornerRadius="38dp"
-            android:layout_marginTop="20dp"
-            android:onClick="salad">
+            tools:ignore="SpeakableTextPresentCheck">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center_vertical">
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/aaaa"
                     android:layout_marginTop="5dp"
-                    />
+                    android:src="@drawable/aaaa" />
 
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -205,35 +205,35 @@
             android:id="@+id/salad"
             android:layout_width="match_parent"
             android:layout_height="200dp"
+            android:layout_marginTop="20dp"
             android:layout_marginBottom="16dp"
             android:backgroundTint="@color/orange"
+            android:onClick="salad"
             app:cardCornerRadius="38dp"
-            android:layout_marginTop="20dp"
-            android:onClick="salad">
+            tools:ignore="DuplicateClickableBoundsCheck">
 
             <LinearLayout
+                android:id="@+id/salada"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="horizontal"
-                android:id="@+id/salada"
+                android:gravity="center_vertical"
                 android:onClick="salada"
-                android:gravity="center_vertical">
+                android:orientation="horizontal">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/salad"
                     android:layout_marginLeft="30dp"
-                    />
+                    android:src="@drawable/salad" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Salad"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
                     android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
+                    android:text="Salad"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
