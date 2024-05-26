@@ -82,45 +82,6 @@ public class HomeFragment extends Fragment {
         }
     }
 
-    public void onCardClick(View view) {
-        Intent intent = new Intent(getActivity(), DetailResep.class); // Ganti DetailActivity dengan activity yang menampilkan detail card
-        switch (view.getId()) {
-            case R.id.salad:
-                // Tentukan tindakan ketika CardView salad diklik
-                intent.putExtra("recipe_type", "meatx"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            case R.id.cookies:
-                // Tentukan tindakan ketika CardView cookies diklik
-                intent.putExtra("recipe_type", "Cookies"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            case R.id.soup:
-                // Tentukan tindakan ketika CardView soup diklik
-                intent.putExtra("recipe_type", "Soup"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            // Tambahkan case untuk CardView lainnya jika diperlukan
-            //
-
-            case R.id.meat:
-                // Tentukan tindakan ketika CardView salad diklik
-                intent.putExtra("recipe_type", "meatx"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            case R.id.noodle:
-                // Tentukan tindakan ketika CardView cookies diklik
-                intent.putExtra("recipe_type", "Cookies"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            case R.id.cake:
-                // Tentukan tindakan ketika CardView soup diklik
-                intent.putExtra("recipe_type", "Soup"); // Mengirim informasi jenis resep yang harus ditampilkan di activity detail
-                startActivity(intent); // Memulai activity detail
-                break;
-            // Tambahkan case untuk CardView lainnya jika diperlukan
-        }
-    }
 
 
 }
