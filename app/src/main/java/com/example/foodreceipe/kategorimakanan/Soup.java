@@ -1,14 +1,16 @@
-package com.example.foodreceipe;
+package com.example.foodreceipe.kategorimakanan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Cake extends AppCompatActivity {
+import com.example.foodreceipe.R;
+
+public class Soup extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cake);
+        setContentView(R.layout.activity_soup);
     }
 }

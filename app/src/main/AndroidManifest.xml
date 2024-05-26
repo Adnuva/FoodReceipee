@@ -16,28 +16,124 @@
         android:theme="@style/Theme.FoodReceipe"
         tools:targetApi="31">
         <activity
+            android:name=".details.sateayam"
+            android:exported="false" />
+        <activity
+            android:name=".details.nasijagung"
+            android:exported="false" />
+        <activity
+            android:name=".details.nasikuning"
+            android:exported="false" />
+        <activity
+            android:name=".details.nasicampur"
+            android:exported="false" />
+        <activity
+            android:name=".details.nasiliwet"
+            android:exported="false" />
+        <activity
+            android:name=".details.nasiuduk"
+            android:exported="false" />
+        <activity
+            android:name=".details.ikanbakar"
+            android:exported="false" />
+        <activity
+            android:name=".details.steak"
+            android:exported="false" />
+        <activity
+            android:name=".details.ayampanggang"
+            android:exported="false" />
+        <activity
+            android:name=".details.spagethibolognese"
+            android:exported="false" />
+        <activity
+            android:name=".details.kwetiaugoreng"
+            android:exported="false" />
+        <activity
+            android:name=".details.chesecake"
+            android:exported="false" />
+        <activity
+            android:name=".details.milecrepes"
+            android:exported="false" />
+        <activity
+            android:name=".details.misosup"
+            android:exported="false" />
+        <activity
+            android:name=".details.mieayam"
+            android:exported="false" />
+        <activity
+            android:name=".details.sotoayam"
+            android:exported="false" />
+        <activity
+            android:name=".details.suppangsit"
+            android:exported="false" />
+        <activity
+            android:name=".details.whoopiepie"
+            android:exported="false" />
+        <activity
+            android:name=".details.caketart"
+            android:exported="false" />
+        <activity
+            android:name=".details.brownies"
+            android:exported="false" />
+        <activity
+            android:name=".details.cupcake"
+            android:exported="false" />
+        <activity
+            android:name=".details.macaron"
+            android:exported="false" />
+        <activity
+            android:name=".details.ramyeon"
+            android:exported="false" />
+        <activity
+            android:name=".details.ramen"
+            android:exported="false" />
+        <activity
+            android:name=".details.Supkonro"
+            android:exported="false" />
+        <activity
+            android:name=".details.Supjagung"
+            android:exported="false" />
+        <activity
+            android:name=".details.Supbuntut"
+            android:exported="false" />
+        <activity
+            android:name=".details.Nicoise_salad"
+            android:exported="false" />
+        <activity
+            android:name=".details.Salad_Sayur"
+            android:exported="false" />
+        <activity
+            android:name=".details.Salad_Buah"
+            android:exported="false" />
+        <activity
+            android:name=".details.Gado_gado"
+            android:exported="false" />
+        <activity
+            android:name=".details.Somtum"
+            android:exported="false" />
+        <activity
             android:name=".Detailssalad"
             android:exported="false" />
         <activity
             android:name=".Detailsmeat"
             android:exported="false" />
         <activity
-            android:name=".Noodle"
+            android:name=".kategorimakanan.Noodle"
             android:exported="false" />
         <activity
-            android:name=".Cake"
+            android:name=".kategorimakanan.Cake"
             android:exported="false" />
         <activity
-            android:name=".Soup"
+            android:name=".kategorimakanan.Soup"
             android:exported="false" />
         <activity
-            android:name=".Cookies"
+            android:name=".kategorimakanan.Cookies"
             android:exported="false" />
         <activity
-            android:name=".Meat"
+            android:name=".kategorimakanan.Meat"
             android:exported="false" />
         <activity
-            android:name=".Salad"
+            android:name=".kategorimakanan.Salad"
             android:exported="false" />
         <activity
             android:name=".UploadActivity"
