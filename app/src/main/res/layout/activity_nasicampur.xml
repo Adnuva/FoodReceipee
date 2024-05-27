@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Nasi Campur"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/campur"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- Nasi putih hangat\n- Daging sapi rendang\n- Ayam goreng\n- Telur dadar\n- Sambal matah\n- Irisan mentimun\n- Irisan tomat\n- Kerupuk\n- Bawang goreng\n- Daun seledri (opsional)\n\nCara Membuat:\n\n1. Siapkan nasi putih hangat di atas piring saji.\n2. Susun daging sapi rendang, ayam goreng, dan telur dadar di sekitar nasi.\n3. Tambahkan sambal matah di salah satu sisi piring.\n4. Hiasi dengan irisan mentimun dan tomat di sekitar hidangan.\n5. Letakkan beberapa potongan kerupuk di atas nasi.\n6. Taburi dengan bawang goreng dan daun seledri cincang (jika digunakan).\n7. Nasi campur siap disajikan. Nikmati dengan lauk-pauk dan pelengkapnya.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

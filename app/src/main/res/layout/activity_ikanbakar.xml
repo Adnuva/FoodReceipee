@@ -13,7 +13,7 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Ikan Bakar"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 1 ekor ikan (gurame, nila, atau jenis ikan lainnya), bersihkan\n- 3 siung bawang putih, haluskan\n- 2 cm jahe, haluskan\n- 2 sdm kecap manis\n- 1 sdm kecap asin\n- 1 sdm minyak wijen\n- 1 sdt garam\n- 1 sdt merica bubuk\n- 1 sdm air jeruk nipis\n- Daun pisang secukupnya\n\nCara Membuat:\n\n1. Bersihkan ikan dan lumuri dengan campuran bawang putih, jahe, kecap manis, kecap asin, minyak wijen, garam, merica bubuk, dan air jeruk nipis. Diamkan selama 30 menit hingga bumbu meresap.\n2. Siapkan panggangan (grill) dan panaskan dengan api sedang.\n3. Bungkus ikan yang sudah dibumbui dengan daun pisang, pastikan terbungkus rapat.\n4. Panggang ikan di atas panggangan yang sudah dipanaskan, balik beberapa kali hingga matang dan harum.\n5. Angkat ikan bakar dari panggangan, sajikan selagi hangat.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

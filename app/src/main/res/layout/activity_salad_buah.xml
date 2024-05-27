@@ -12,8 +12,8 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_marginTop="50dp"
-        android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:layout_marginLeft="200dp"
+        android:text="Salad Buah"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 200 gram anggur merah, potong dua\n- 200 gram anggur hijau, potong dua\n- 200 gram stroberi, potong-potong\n- 2 buah kiwi, kupas dan potong dadu\n- 2 buah apel, kupas dan potong dadu\n- 2 buah pir, kupas dan potong dadu\n- 1 buah naga, potong dadu\n- 1 kaleng jeruk mandarin, tiriskan\n- 100 gram nata de coco, tiriskan\n- 100 gram agar-agar, potong dadu kecil (opsional)\n\nSaus Salad:\n\n- 200 ml yogurt plain atau yogurt rasa buah sesuai selera\n- 3 sdm susu kental manis\n- 2 sdm mayonnaise (opsional, untuk rasa lebih creamy)\n- 1 sdm air jeruk lemon atau jeruk nipis (untuk rasa segar)\n\nCara Membuat:\n\n1. Siapkan semua buah dengan mencucinya bersih, kemudian potong-potong sesuai ukuran yang diinginkan.\n2. Masukkan semua potongan buah, jeruk mandarin, nata de coco, dan agar-agar (jika digunakan) ke dalam mangkuk besar.\n3. Dalam mangkuk terpisah, campurkan yogurt, susu kental manis, mayonnaise, dan air jeruk lemon atau jeruk nipis. Aduk rata hingga semua bahan tercampur sempurna.\n4. Tuang saus yogurt ke dalam mangkuk berisi buah-buahan. Aduk perlahan hingga semua buah terbalut saus dengan merata.\n5. Simpan salad buah di dalam lemari es selama minimal 1 jam agar saus meresap dan salad menjadi lebih segar.\n6. Sajikan salad buah dingin sebagai hidangan penutup atau camilan yang sehat.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

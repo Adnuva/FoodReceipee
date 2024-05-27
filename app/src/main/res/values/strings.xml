@@ -5,7 +5,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
-    <string name="salad_resep_info">Ini adalah resep salad yang segar dan lezat...</string>
-    <string name="cookies_resep_info">Ini adalah resep cookies yang lezat...</string>
+<!--    <string name="salad_resep_info">Ini adalah resep salad yang segar dan lezat...</string>-->
+<!--    <string name="cookies_resep_info">Ini adalah resep cookies yang lezat...</string>-->
     <!-- Tambahkan teks resep untuk resep lainnya jika diperlukan -->
 </resources>

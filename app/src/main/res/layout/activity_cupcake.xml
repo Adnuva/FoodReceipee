@@ -13,7 +13,7 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Cupcake"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 150 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 3 butir telur\n- 1 sdt ekstrak vanila\n- 150 gram tepung terigu\n- 1 1/2 sdt baking powder\n- 50 ml susu cair\n\nTopping (opsional):\n\n- Buttercream atau cream cheese frosting\n- Hiasan cupcake sesuai selera (contoh: sprinkles, buah, cokelat)\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang cupcake dengan menggunakan liner cupcake.\n2. Kocok mentega dan gula pasir hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu dan baking powder ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tuangkan susu cair ke dalam adonan, aduk hingga merata dan konsistensi adonan halus.\n6. Bagi adonan ke dalam liner cupcake hingga 2/3 penuh.\n7. Panggang dalam oven yang sudah dipanaskan selama 18-20 menit atau hingga cupcakes matang dan bagian atasnya keemasan.\n8. Keluarkan cupcakes dari oven, biarkan dingin di atas rak sebelum menambahkan topping dan hiasan.\n9. Hias cupcakes sesuai selera sebelum disajikan.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

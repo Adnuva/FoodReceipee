@@ -19,7 +19,7 @@
             android:name=".details.sateayam"
             android:exported="false" />
         <activity
-            android:name=".details.nasijagung"
+            android:name=".details.nasibakar"
             android:exported="false" />
         <activity
             android:name=".details.nasikuning"

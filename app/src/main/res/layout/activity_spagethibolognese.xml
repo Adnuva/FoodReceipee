@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Spaghetti Bolognese"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/bolo"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 300 gram spaghetti\n- 250 gram daging sapi cincang\n- 1 buah bawang bombay, cincang\n- 2 siung bawang putih, cincang\n- 2 buah tomat, cincang\n- 1 sdm tomat pasta\n- 1 sdm saus tiram\n- 1 sdm kecap inggris\n- 1 sdt gula pasir\n- 1 sdt garam\n- 1/2 sdt merica bubuk\n- 1 sdm minyak zaitun\n- Parmesan parut untuk taburan (opsional)\n\nCara Membuat:\n\n1. Rebus spaghetti sesuai petunjuk kemasan hingga al dente. Tiriskan dan sisihkan.\n2. Panaskan minyak zaitun dalam wajan. Tumis bawang bombay dan bawang putih hingga harum.\n3. Masukkan daging sapi cincang. Aduk hingga berubah warna.\n4. Tambahkan tomat cincang dan tomat pasta. Masak hingga tomat menjadi lembut.\n5. Tuangkan saus tiram, kecap inggris, gula pasir, garam, dan merica bubuk. Aduk rata.\n6. Masak bolognese saus hingga meresap dan mengental.\n7. Sajikan spaghetti dalam mangkuk, beri bolognese saus di atasnya.\n8. Taburi dengan Parmesan parut jika diinginkan. Nikmati selagi hangat!\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

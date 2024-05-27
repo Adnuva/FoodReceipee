@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Mille Crêpes"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/millecrepes"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 500 ml susu cair\n- 4 butir telur\n- 100 gram tepung terigu\n- 50 gram mentega, lelehkan\n- 50 gram gula pasir\n- 1 sdt ekstrak vanila\n- Selai atau topping sesuai selera\n\nCara Membuat:\n\n1. Campurkan susu cair, telur, tepung terigu, mentega cair, gula pasir, dan ekstrak vanila ke dalam blender. Proses hingga adonan menjadi halus dan tidak bergerindil.\n2. Panaskan wajan datar anti lengket dengan api kecil. Oleskan sedikit mentega pada permukaan wajan.\n3. Tuangkan adonan secukupnya ke wajan dan ratakan dengan gerakan putar wajan agar adonan menyebar tipis.\n4. Biarkan adonan mengeras dan berwarna kecokelatan di bawahnya sebelum dibalik. Setiap lapisan crepes harus tipis dan berwarna kecokelatan.\n5. Angkat crepes dan dinginkan. Ulangi proses hingga semua adonan habis.\n6. Susun lapisan-lapisan crepes yang sudah dingin, olesi dengan selai atau topping sesuai selera di antara setiap lapisannya.\n7. Dinginkan dalam lemari es selama beberapa jam agar lapisan crepes menyatu dengan baik.\n8. Potong dan hidangkan mile crepes dingin sebagai hidangan penutup lezat.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

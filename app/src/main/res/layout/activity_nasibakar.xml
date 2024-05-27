@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Salad Nicoise"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/nasibakar"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 200 gram kentang, direbus dan potong dadu\n- 200 gram buncis, direbus\n- 100 gram tomat cherry, belah dua\n- 2 butir telur rebus, belah dua\n- 1 kaleng tuna dalam air, tiriskan\n- 100 gram olive hitam, tanpa biji\n- 100 gram sayuran hijau (rucola, selada, atau bayam), cuci bersih\n- 4 sdm minyak zaitun\n- 2 sdm cuka anggur\n- 1 sdt mustard Dijon\n- Garam secukupnya\n- Merica secukupnya\n- 1 sdm parsley segar, cincang halus (opsional)\n\nCara Membuat:\n\n1. Campurkan minyak zaitun, cuka anggur, mustard Dijon, garam, dan merica dalam sebuah mangkuk kecil untuk membuat dressing.\n2. Di sebuah mangkuk besar, susun kentang, buncis, tomat cherry, telur rebus, tuna, olive hitam, dan sayuran hijau.\n3. Tuangkan dressing di atas salad sesuai selera.\n4. Taburi dengan parsley cincang jika menggunakan.\n5. Sajikan segera sebagai hidangan utama atau hidangan pembuka.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

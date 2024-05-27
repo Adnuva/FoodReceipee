@@ -12,15 +12,15 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_marginTop="50dp"
-        android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:layout_marginLeft="190dp"
+        android:text="Brownies"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
-        android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/cake"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 150 gram dark chocolate, potong kecil-kecil\n- 100 gram mentega\n- 2 butir telur\n- 150 gram gula pasir\n- 1 sdt ekstrak vanila\n- 100 gram tepung terigu\n- 2 sdm bubuk kakao\n- 1/4 sdt garam\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang persegi, olesi dengan mentega atau alasi dengan kertas roti.\n2. Lelehkan dark chocolate dan mentega di atas panci dengan api kecil sambil terus diaduk hingga rata. Angkat dan biarkan sedikit mendingin.\n3. Dalam mangkuk besar, kocok telur dan gula pasir hingga mengembang dan warnanya menjadi lebih pucat.\n4. Tambahkan ekstrak vanila ke dalam adonan telur dan gula, aduk rata.\n5. Tuang campuran cokelat leleh ke dalam adonan telur dan gula, aduk hingga tercampur rata.\n6. Ayak tepung terigu, bubuk kakao, dan garam ke dalam adonan cokelat. Aduk perlahan dengan spatula hingga tidak ada lagi tepung yang terlihat.\n7. Tuang adonan ke dalam loyang yang sudah disiapkan, ratakan permukaannya.\n8. Panggang dalam oven yang sudah dipanaskan selama 20-25 menit atau hingga bagian atasnya mengeras tetapi bagian dalamnya masih lembut.\n9. Keluarkan brownies dari oven, biarkan dingin di loyang sebelum dipotong-potong dan disajikan.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

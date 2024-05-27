@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Soto Ayam"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/supbuntut"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 500 gram daging ayam, rebus dan suwir-suwir\n- 200 gram tauge, seduh air panas\n- 200 gram mie soun, seduh air panas\n- 2 batang daun bawang, iris halus\n- 2 batang seledri, iris halus\n- 2 batang bawang daun, iris halus\n- 2 batang serai, memarkan\n- 3 lembar daun jeruk\n- 2 sdm minyak goreng\n- Garam secukupnya\n- Merica secukupnya\n\nBumbu Halus:\n\n- 5 siung bawang putih\n- 4 butir kemiri, sangrai\n- 2 cm jahe\n- 2 cm kunyit\n- 1 sdt ketumbar\n- 1 sdt jintan\n- 1/2 sdt merica\n\nCara Membuat:\n\n1. Tumis bumbu halus, serai, dan daun jeruk dengan minyak goreng hingga harum.\n2. Masukkan daging ayam yang sudah direbus dan suwir-suwir. Aduk hingga tercampur rata.\n3. Tuang air rebusan ayam secukupnya. Masak hingga mendidih.\n4. Tambahkan garam dan merica secukupnya. Aduk rata.\n5. Siapkan mangkuk saji, letakkan mie soun dan tauge di dalamnya.\n6. Tuang soto ayam ke dalam mangkuk saji. Taburi dengan daun bawang, seledri, dan bawang daun.\n7. Sajikan soto ayam hangat dengan pelengkap sambal dan kecap manis.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

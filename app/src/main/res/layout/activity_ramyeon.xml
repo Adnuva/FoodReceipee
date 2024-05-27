@@ -13,7 +13,7 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Ramyeon"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 1 bungkus mie ramyeon\n- 2 gelas air\n- 1 bungkus bumbu mie ramyeon\n- 1 butir telur\n- 1 batang daun bawang, iris halus\n- 50 gram wortel, iris tipis\n- 50 gram kol, iris tipis\n- 50 gram jamur shitake, iris tipis\n- 50 gram daging sapi, potong tipis\n- Minyak wijen secukupnya\n\nCara Membuat:\n\n1. Rebus air dalam panci hingga mendidih. Masukkan mie ramyeon ke dalam air mendidih dan rebus selama beberapa menit hingga mie menjadi lembut.\n2. Sambil menunggu mie ramyeon matang, panaskan sedikit minyak wijen dalam wajan. Tumis daging sapi, wortel, kol, dan jamur hingga matang.\n3. Pecahkan telur ke dalam wajan dan aduk cepat hingga telur matang dan tercampur dengan bahan lainnya.\n4. Setelah mie ramyeon matang, tiriskan airnya dan masukkan ke dalam mangkuk saji.\n5. Tuangkan bumbu mie ramyeon ke dalam mangkuk yang berisi mie.\n6. Letakkan tumisan daging dan sayuran di atas mie ramyeon.\n7. Taburi dengan irisan daun bawang.\n8. Sajikan ramyeon panas sebagai hidangan utama.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

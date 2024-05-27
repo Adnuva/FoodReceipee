@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Steak"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/soup"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 2 iris daging steak (sirloin, tenderloin, atau sesuai preferensi)\n- Garam dan merica secukupnya\n- 2 sdm minyak zaitun\n- 2 siung bawang putih, cincang halus\n- 2 sdm mentega\n\nSaus Steak:\n\n- 2 sdm saus tomat\n- 1 sdm saus Worcestershire\n- 1 sdm saus kecap\n- 1 sdt gula merah\n- 1/2 sdt garam\n- 1/2 sdt merica bubuk\n\nCara Membuat:\n\n1. Lumuri daging steak dengan garam dan merica secukupnya.\n2. Panaskan minyak zaitun dalam wajan dengan api sedang-tinggi. Masukkan daging steak dan masak sesuai tingkat kematangan yang diinginkan. Angkat dan sisihkan.\n3. Bersihkan wajan, lalu panaskan mentega. Tumis bawang putih hingga harum.\n4. Masukkan semua bahan saus steak ke dalam wajan. Aduk rata dan masak hingga saus mengental.\n5. Tata daging steak di atas piring saji, tuangkan saus steak di atasnya. Sajikan segera.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

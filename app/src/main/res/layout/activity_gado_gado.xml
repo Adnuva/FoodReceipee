@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Gado-Gado"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/gado"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 200 gram kacang panjang, potong-potong\n- 200 gram tauge\n- 2 buah kentang, kukus dan potong-potong\n- 2 buah telur, rebus dan potong-potong\n- 100 gram kol, iris halus\n- 100 gram sawi hijau, potong-potong\n- 1 buah mentimun, iris tipis\n- 1 buah tahu, goreng dan potong-potong\n- 1 buah tempe, goreng dan potong-potong\n- 100 gram lontong, potong-potong\n- 2 sdm bawang goreng (opsional)\n\nSaus Kacang:\n\n- 200 gram kacang tanah, goreng dan haluskan\n- 3 siung bawang putih, goreng dan haluskan\n- 2 buah cabe rawit (sesuai selera)\n- 2 sdm kecap manis\n- 1 sdm gula merah, sisir halus\n- 1/2 sdt garam\n- 1/2 sdt terasi bakar, haluskan\n- 200 ml air\n- Jeruk nipis secukupnya\n\nCara Membuat:\n\n1. Rebus kacang panjang, tauge, kentang, telur, kol, dan sawi hijau hingga matang. Tiriskan.\n2. Susun semua bahan (mentimun, tahu, tempe, lontong, dan bahan yang direbus) di atas piring saji.\n3. Untuk saus kacang, campurkan kacang tanah halus, bawang putih halus, cabe rawit, kecap manis, gula merah, garam, terasi bakar, dan air dalam wadah. Aduk hingga merata. Jika terlalu kental, tambahkan air secukupnya.\n4. Tuangkan saus kacang di atas bahan yang disusun di atas piring saji.\n5. Taburkan bawang goreng di atasnya (opsional).\n6. Sajikan gado-gado dengan irisan jeruk nipis.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

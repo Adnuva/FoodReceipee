@@ -13,7 +13,7 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Cake Tart"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 200 gram tepung terigu\n- 200 gram gula pasir\n- 200 gram mentega\n- 4 butir telur\n- 1 sdt baking powder\n- 1 sdt vanili\n- 50 ml susu cair\n\nBahan Krim:\n\n- 200 gram mentega\n- 100 gram gula halus\n- 1 sdt vanili\n- 2 sdm susu cair\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang bulat, olesi dengan mentega dan taburi sedikit tepung.\n2. Kocok mentega dan gula pasir hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata.\n4. Masukkan tepung terigu, baking powder, dan vanili sambil diayak. Aduk perlahan hingga tercampur rata.\n5. Tambahkan susu cair sedikit demi sedikit sambil terus diaduk hingga adonan halus.\n6. Tuang adonan ke dalam loyang, ratakan permukaannya.\n7. Panggang dalam oven yang sudah dipanaskan selama 25-30 menit atau hingga kue matang dan berwarna keemasan.\n8. Keluarkan kue dari oven, biarkan dingin di loyang sebelum diangkat dan dihias dengan krim.\n\nCara Membuat Krim:\n\n1. Kocok mentega dan gula halus hingga lembut dan mengembang.\n2. Tambahkan vanili dan susu cair, kocok hingga rata dan krim menjadi lembut.\n3. Oleskan krim pada permukaan kue yang sudah dingin. Hias sesuai selera.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

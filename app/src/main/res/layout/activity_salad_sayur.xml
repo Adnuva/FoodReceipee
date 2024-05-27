@@ -13,7 +13,7 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Salad Sayur"/>
 
     <ImageView
         android:layout_width="200dp"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 100 gram selada hijau\n- 100 gram selada merah\n- 1 buah timun, iris tipis\n- 1 buah wortel, parut\n- 1 buah tomat, potong dadu\n- 1 buah paprika merah, potong dadu\n- 1 buah paprika kuning, potong dadu\n- 50 gram bawang bombay, iris tipis\n- 50 gram kacang polong\n- 50 gram jagung pipil\n- Dressing sesuai selera\n\nCara Membuat:\n\n1. Cuci bersih selada hijau dan selada merah. Tiriskan.\n2. Siapkan mangkuk saji. Susun selada hijau dan selada merah di dalamnya.\n3. Tambahkan irisan timun, parutan wortel, potongan tomat, paprika merah, paprika kuning, dan bawang bombay di atas selada.\n4. Taburi kacang polong dan jagung pipil di atas salad.\n5. Tambahkan dressing sesuai selera.\n6. Aduk perlahan hingga semua bahan tercampur rata dengan dressing.\n7. Sajikan salad sayur segar sebagai hidangan pembuka atau sebagai pelengkap hidangan utama.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

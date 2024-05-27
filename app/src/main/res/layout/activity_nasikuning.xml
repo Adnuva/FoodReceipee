@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Nasi Kuning"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/nasibakar"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 2 cangkir beras\n- 1 batang serai, memarkan\n- 2 lembar daun salam\n- 2 lembar daun jeruk\n- 1 sdt kunyit bubuk\n- 1 sdt garam\n- 500 ml santan kental\n- 300 ml air\n- Minyak untuk menumis\n\nCara Membuat:\n\n1. Cuci beras hingga bersih, tiriskan.\n2. Panaskan sedikit minyak dalam panci. Tumis serai, daun salam, dan daun jeruk hingga harum.\n3. Tambahkan kunyit bubuk dan garam, aduk sebentar.\n4. Masukkan beras ke dalam panci. Aduk hingga rata dengan bumbu.\n5. Tuangkan santan dan air ke dalam panci. Aduk rata.\n6. Masak nasi dengan api sedang hingga air meresap dan nasi matang.\n7. Setelah matang, angkat nasi kuning dan sajikan selagi hangat bersama lauk pauk favorit Anda.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Macaron"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/macaron"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 100 gram tepung almond\n- 100 gram gula halus\n- 2 butir putih telur\n- 50 gram gula pasir\n- Pewarna makanan (opsional)\n- Essens atau flavoring (opsional)\n\nCara Membuat:\n\n1. Ayak tepung almond dan gula halus bersama-sama. Sisihkan.\n2. Kocok putih telur hingga berbusa, kemudian tambahkan gula pasir sedikit demi sedikit sambil terus dikocok hingga kaku dan mengkilat.\n3. Campurkan adonan tepung almond dan gula halus ke dalam adonan putih telur, aduk balik dengan spatula hingga tercampur rata.\n4. Bagi adonan menjadi beberapa bagian sesuai dengan jumlah warna yang diinginkan. Tambahkan pewarna makanan dan essens/flavoring ke masing-masing bagian adonan sesuai selera.\n5. Masukkan adonan ke dalam piping bag yang telah dilengkapi dengan spuit tip yang sesuai.\n6. Semprotkan adonan ke atas loyang yang sudah dialasi kertas baking, buat bulatan kecil dengan jarak yang cukup antara satu dengan yang lainnya.\n7. Pukul-pukul loyang ke meja secara perlahan untuk mengeluarkan udara dalam adonan.\n8. Biarkan adonan mengering selama 30-60 menit hingga permukaannya mengeras.\n9. Panaskan oven hingga suhu 150°C, panggang macaron selama 15-20 menit hingga matang.\n10. Angkat macaron dari oven, biarkan dingin sebelum disajikan.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

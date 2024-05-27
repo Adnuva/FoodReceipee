@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Somtum"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/somtum"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 1 buah papaya mentah, kupas dan iris tipis\n- 50 gram tomat ceri, potong menjadi dua bagian\n- 50 gram kacang panjang, potong-potong\n- 50 gram wortel, iris tipis\n- 2 batang daun bawang, iris tipis\n- 2 sdm kacang tanah sangrai\n- 2 sdm ikan teri asin\n- 2 buah cabai merah, iris tipis\n- 2 buah cabai rawit merah, iris tipis\n- 2 siung bawang putih\n- 1 sdm gula merah\n- 1 sdm gula pasir\n- 1 buah jeruk nipis, ambil airnya\n- 2 sdm air asam jawa\n- 2 sdm kecap manis\n- Garam secukupnya\n\nCara Membuat:\n\n1. Haluskan bawang putih, gula merah, dan gula pasir dalam cobek.\n2. Tambahkan air asam jawa, kecap manis, air jeruk nipis, dan garam. Aduk rata.\n3. Masukkan potongan papaya mentah, tomat ceri, kacang panjang, wortel, dan daun bawang ke dalam cobek. Ulek atau tumbuk dengan sumpit.\n4. Tambahkan kacang tanah, ikan teri asin, cabai merah, dan cabai rawit merah. Ulek kembali hingga semua bahan tercampur rata.\n5. Koreksi rasa sesuai selera. Tambahkan gula, garam, atau air jeruk nipis jika diperlukan.\n6. Sajikan somtum segar sebagai hidangan pembuka atau sebagai lauk pelengkap nasi.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

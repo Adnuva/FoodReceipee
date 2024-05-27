@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Cheesecake"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/cake"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 200 gram biskuit gandum, hancurkan\n- 100 gram mentega, lelehkan\n- 500 gram krim keju (cream cheese), suhu ruang\n- 200 gram gula pasir\n- 200 ml krim kental (heavy cream)\n- 3 butir telur\n- 1 sdt ekstrak vanila\n- 1 sdm tepung maizena\n- 1 sdm air lemon\n\nTopping (opsional):\n\n- Buah segar (stroberi, blueberry, dll.)\n- Saus buah atau selai sesuai selera\n\nCara Membuat:\n\n1. Campurkan biskuit yang telah dihancurkan dengan mentega leleh. Aduk rata.\n2. Tekan campuran biskuit ke dasar loyang springform yang sudah dialasi kertas roti. Ratakan dan padatkan. Simpan dalam lemari es selama 15 menit.\n3. Panaskan oven hingga 160°C.\n4. Kocok krim keju dengan gula pasir hingga lembut dan mengembang.\n5. Tambahkan krim kental, telur satu per satu, ekstrak vanila, tepung maizena, dan air lemon. Aduk hingga rata dan lembut.\n6. Tuang adonan keju ke atas dasar biskuit yang sudah didinginkan.\n7. Panggang dalam oven selama 50-60 menit atau hingga bagian tengah cheesecake hampir set tetapi masih sedikit bergoyang.\n8. Matikan oven, biarkan pintu oven sedikit terbuka, dan biarkan cheesecake mendingin di dalam oven selama 1 jam.\n9. Keluarkan cheesecake dari oven, dinginkan sepenuhnya di lemari es selama minimal 4 jam atau semalaman.\n10. Tambahkan topping sesuai selera sebelum disajikan.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

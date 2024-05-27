@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Ayam Panggang"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 1 ekor ayam utuh, bersihkan dan potong menjadi beberapa bagian\n- 3 siung bawang putih, haluskan\n- 2 cm jahe, haluskan\n- 2 sdm kecap manis\n- 2 sdm saus tiram\n- 1 sdm minyak wijen\n- 1 sdm madu\n- 1 sdt garam\n- 1 sdt merica bubuk\n- 1 sdm air jeruk lemon\n\nCara Membuat:\n\n1. Siapkan ayam yang sudah dibersihkan dan dipotong-potong. Letakkan dalam wadah besar.\n2. Campurkan bawang putih halus, jahe halus, kecap manis, saus tiram, minyak wijen, madu, garam, merica bubuk, dan air jeruk lemon dalam mangkuk kecil. Aduk hingga semua bahan tercampur rata.\n3. Tuangkan campuran bumbu ke dalam wadah berisi ayam. Aduk hingga ayam terbalut bumbu dengan merata. Diamkan selama minimal 1 jam atau semalaman di dalam lemari es agar bumbu meresap.\n4. Panaskan oven hingga suhu 180°C.\n5. Susun potongan ayam di atas loyang yang sudah dialasi kertas baking atau diolesi sedikit minyak.\n6. Panggang ayam dalam oven yang sudah dipanaskan selama 45-60 menit atau hingga ayam matang dan kulitnya kecoklatan. Balik ayam setengah waktu memanggang agar matang merata.\n7. Setelah ayam matang, angkat dan sajikan panas dengan nasi atau lalapan sesuai selera.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

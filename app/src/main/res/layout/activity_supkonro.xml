@@ -13,14 +13,14 @@
         android:textStyle="bold"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="150dp"
-        android:text="Cookies"/>
+        android:text="Sup Konro"/>
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="-35dp"
         android:layout_marginLeft="-50dp"
-        android:src="@drawable/sldbuah"/>
+        android:src="@drawable/somtum"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
                 android:textSize="16sp"
-                android:text="Bahan-bahan:\n\n- 200 gram mentega, suhu ruang\n- 150 gram gula pasir\n- 200 gram gula palem (bisa diganti dengan gula pasir)\n- 2 butir telur\n- 2 sdt ekstrak vanila\n- 375 gram tepung terigu\n- 1/2 sdt baking soda\n- 1/2 sdt baking powder\n- 1/2 sdt garam\n- 300 gram cokelat chip atau cokelat potong kecil\n\nCara Membuat:\n\n1. Panaskan oven hingga 180°C. Siapkan loyang yang sudah dialasi kertas roti.\n2. Kocok mentega, gula pasir, dan gula palem hingga lembut dan mengembang.\n3. Tambahkan telur satu per satu sambil terus dikocok hingga rata. Tambahkan ekstrak vanila, aduk rata.\n4. Ayak tepung terigu, baking soda, baking powder, dan garam ke dalam adonan mentega. Aduk perlahan hingga tercampur rata.\n5. Tambahkan cokelat chip ke dalam adonan, aduk hingga merata.\n6. Ambil adonan menggunakan sendok makan, susun di atas loyang dengan jarak yang cukup antara satu dengan yang lain.\n7. Panggang dalam oven yang sudah dipanaskan selama 10-12 menit atau hingga bagian pinggir cookies kecokelatan.\n8. Keluarkan cookies dari oven, biarkan dingin di atas rak sebelum disajikan atau disimpan dalam wadah kedap udara.\n"
+                android:text="Bahan-bahan:\n\n- 1 kg tulang sapi (konro)\n- 2 batang serai, memarkan\n- 3 lembar daun salam\n- 3 lembar daun jeruk\n- 2 cm lengkuas, memarkan\n- 5 butir cengkih\n- 2 cm kayu manis\n- 1 sdm garam\n- 1 sdt merica bubuk\n- 1 sdm minyak goreng\n\nBumbu Halus:\n\n- 5 buah cabai merah\n- 10 buah cabai rawit (sesuai selera pedas)\n- 8 butir bawang merah\n- 5 siung bawang putih\n- 2 cm jahe\n- 2 cm kunyit\n- 1 sdt ketumbar bubuk\n- 1/2 sdt jinten\n\nPelengkap:\n\n- Bawang merah goreng\n- Daun bawang iris\n- Jeruk nipis\n\nCara Membuat:\n\n1. Rebus tulang sapi dalam air mendidih selama 10 menit. Tiriskan dan bersihkan tulang sapi dari kotoran.\n2. Panaskan minyak goreng dalam panci. Tumis bumbu halus hingga harum dan matang.\n3. Masukkan serai, daun salam, daun jeruk, lengkuas, cengkih, dan kayu manis. Aduk sebentar hingga harum.\n4. Masukkan tulang sapi ke dalam panci. Tambahkan garam, merica bubuk, dan air secukupnya. Masak dengan api kecil hingga tulang sapi empuk dan bumbu meresap.\n5. Sajikan sup konro hangat dengan pelengkapnya.\n"
                 android:lineSpacingExtra="14dp"/>
         </ScrollView>
 

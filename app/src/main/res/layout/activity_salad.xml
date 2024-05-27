@@ -9,7 +9,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        >
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -18,7 +19,7 @@
 
     <androidx.cardview.widget.CardView
 
-        android:id="@+id/salad"
+        android:id="@+id/somtum"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginBottom="16dp"
@@ -51,7 +52,7 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/cookies"
+        android:id="@+id/gado"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginBottom="16dp"
@@ -76,7 +77,7 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/soup"
+        android:id="@+id/sldsyr"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginBottom="16dp"
@@ -102,7 +103,7 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/cake"
+        android:id="@+id/sldbuah"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginBottom="16dp"
@@ -128,7 +129,7 @@
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/noodle"
+        android:id="@+id/noi"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginBottom="16dp"
