@@ -6,7 +6,7 @@ import retrofit2.http.Query;
 
 public interface SpoonacularApi {
 
-    @GET("recipes")
+    @GET("recipes/complexSearch")
     Call<RecipeResponse> getRecipes(
             @Query("apiKey") String apiKey,
             @Query("query") String query,

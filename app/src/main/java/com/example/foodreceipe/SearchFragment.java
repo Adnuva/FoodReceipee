@@ -72,7 +72,7 @@ public class SearchFragment extends Fragment {
         isLoading = true;
         SpoonacularApi api = ApiClient.getClient().create(SpoonacularApi.class);
         // Memanggil metode getRecipes dengan empat parameter (termasuk nomor halaman)
-        Call<RecipeResponse> call = api.getRecipes("0d0ab41b7123474e8c0ba25c5643af04 ", "", 200, pageNumber, "id-ID");// Ambil lebih banyak data berdasarkan halaman
+        Call<RecipeResponse> call = api.getRecipes("0d0ab41b7123474e8c0ba25c5643af04", "", 200, pageNumber, "id-ID");// Ambil lebih banyak data berdasarkan halaman
 
         call.enqueue(new Callback<RecipeResponse>() {
             @Override
@@ -96,7 +96,7 @@ public class SearchFragment extends Fragment {
     public void fetchMoreRecipes() {
         pageNumber++; // Increment halaman untuk mengambil data berikutnya
         SpoonacularApi api = ApiClient.getClient().create(SpoonacularApi.class);
-        Call<RecipeResponse> call = api.getRecipes("df86d4df34514de9bbd06d5dabed50c4", "pastatz", 200, pageNumber, "id-ID");
+        Call<RecipeResponse> call = api.getRecipes("0d0ab41b7123474e8c0ba25c5643af04", "", 200, pageNumber, "id-ID");
         // Ambil lebih banyak data berdasarkan halaman
 
         call.enqueue(new Callback<RecipeResponse>() {
