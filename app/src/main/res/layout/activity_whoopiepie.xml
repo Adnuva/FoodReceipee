@@ -12,14 +12,14 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_marginTop="50dp"
-        android:layout_marginLeft="150dp"
+        android:layout_marginLeft="210dp"
         android:text="Whoopie Pie"/>
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_marginTop="-35dp"
-        android:layout_marginLeft="-50dp"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="-175dp"
+        android:layout_marginLeft="-160dp"
         android:src="@drawable/whoopiepie"/>
 
     <androidx.cardview.widget.CardView

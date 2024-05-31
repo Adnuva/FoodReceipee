@@ -5,8 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white"
-    android:id="@+id/meatx"
-    tools:context=".HomeFragment">
+    tools:context=".kategorimakanan.Meat">
 
 
     <LinearLayout
@@ -34,19 +33,10 @@
 
                 <ImageView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/salad"
-                    android:layout_marginLeft="30dp"
-                    />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Salad"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
+                    android:layout_height="180dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:src="@drawable/taican" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -67,19 +57,10 @@
 
                 <ImageView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/cookies"
-                    android:layout_marginLeft="30dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/steak"
+                    android:layout_marginLeft="0dp"
                     />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Cookies"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -101,18 +82,10 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/soup"
-                    android:layout_marginLeft="30dp"
+                    android:src="@drawable/pang"
+                    android:layout_marginLeft="50dp"
                     />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Soup"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -134,18 +107,10 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/cake"
-                    android:layout_marginLeft="30dp"
+                    android:src="@drawable/ikbak"
+                    android:layout_marginLeft="40dp"
                     />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Cake"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -167,54 +132,13 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/meat"
-                    android:layout_marginLeft="30dp"
+                    android:src="@drawable/kon"
+                    android:layout_marginLeft="50dp"
                     />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Meat"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:layout_marginLeft="30dp"
-                    android:textColor="@android:color/black" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
-        <androidx.cardview.widget.CardView
-            android:id="@+id/noodle"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/orange"
-            app:cardCornerRadius="38dp"
-            android:paddingBottom="50dp"
-            android:onClick="noodle">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal"
-                android:gravity="center_vertical">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/noodle"
-                    android:layout_marginLeft="30dp"
-                    />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Noodle"
-                    android:textStyle="bold"
-                    android:layout_marginLeft="40dp"
-                    android:textSize="18sp"
-                    android:textColor="@android:color/black" />
-            </LinearLayout>
-        </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"

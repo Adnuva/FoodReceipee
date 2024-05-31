@@ -12,14 +12,14 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_marginTop="50dp"
-        android:layout_marginLeft="150dp"
+        android:layout_marginLeft="210dp"
         android:text="Somtum"/>
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_marginTop="-35dp"
-        android:layout_marginLeft="-50dp"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="-95dp"
+        android:layout_marginLeft="-110dp"
         android:src="@drawable/somtum"/>
 
     <androidx.cardview.widget.CardView

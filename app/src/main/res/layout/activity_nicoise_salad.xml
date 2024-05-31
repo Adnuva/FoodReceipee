@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/biru"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="210dp"
+        android:text="Nicoise Salad"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="-30dp"
+        android:src="@drawable/nicoise"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:backgroundTint="@color/orange"
+        app:cardCornerRadius="30dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:text="Bahan-bahan:\n\n- 200 gram kentang, direbus dan potong-potong\n- 200 gram buncis, direbus dan dipotong-potong\n- 2 butir telur, direbus dan dipotong-potong\n- 1 buah tomat, potong-potong\n- 1/2 buah bawang merah, iris tipis\n- 50 gram selada hijau\n- 50 gram selada air\n- 100 gram tuna kalengan, tiriskan\n- 50 gram olive hitam, belah\n- 50 gram tomat cherry, belah dua\n- 2 sdm minyak zaitun\n- 1 sdm cuka\n- 1/2 sdt mustard\n- 1 sdt air lemon\n- Garam dan merica secukupnya\n\nCara Membuat:\n\n1. Campurkan kentang, buncis, telur, tomat, bawang merah, selada hijau, selada air, tuna, olive hitam, dan tomat cherry dalam sebuah mangkuk besar.\n2. Dalam mangkuk kecil, campurkan minyak zaitun, cuka, mustard, air lemon, garam, dan merica. Aduk rata menjadi dressing.\n3. Tuang dressing ke dalam mangkuk besar yang berisi bahan salad. Aduk rata hingga semua bahan terbalut dressing dengan merata.\n4. Sajikan Nicoise Salad segera dan nikmati.\n"
+                android:lineSpacingExtra="14dp"/>
+        </ScrollView>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
